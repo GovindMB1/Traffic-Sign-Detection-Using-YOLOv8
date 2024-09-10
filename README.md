@@ -17,6 +17,9 @@ This project involves implementing a traffic sign detection system using YOLOv8,
 - **TQDM:** For creating progress bars during data processing and training loops.
 - **IPython Display (Video):** For displaying videos within Jupyter Notebooks.
 
+## Results
+![Alt Text](https://github.com/GovindMB1/Traffic-Sign-Detection-Using-YOLOv8/blob/main/out.jpg)
+
 ## Instructions for Running the Jupyter Notebook
 To run the code in the Jupyter notebook:
 
